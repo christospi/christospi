@@ -5,7 +5,7 @@ Hi there <img src="https://raw.githubusercontent.com/christospi/christospi/maste
 
 <p align="center">Developer with working experience in academic research, engaged in AI-related projects. MSc in Data Science 👨‍🎓 with a craving for NLP and ML applications 🤯 <p>
 
-<p align="center">I'm currently job-hunting 👀, looking for an awesome team to collaborate with 👯‍♂️<p>
+<p align="center">I'm currently job-hunting 👀, looking for an awesome team to collaborate with!<p>
 
 <p align="center">📫 Contact me at:<p>
 
