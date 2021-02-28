@@ -3,7 +3,7 @@
 Hi there <img src="https://raw.githubusercontent.com/christospi/christospi/master/assets/elbow.gif" width="40px"> I'm Chris 🐱‍💻</div>
 </h2>
 
-<p align="center">Developer with working experience in academic research, engaged in AI-related projects. MSc in Data Science 👨‍🎓 with a craving for NLP and ML applications 🤯 <p>
+<p align="center">Software Engineer with working experience in academic research, engaged in AI/ML-related projects. MSc in Data Science 👨‍🎓 with a craving for NLP and ML applications 🤯 <p>
 
 <p align="center">I'm currently job-hunting 👀, looking for an awesome team to collaborate with!<p>
 
