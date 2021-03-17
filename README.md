@@ -1,15 +1,15 @@
-<h2 align="center">
+<h2>
 <div>
 Hi there <img src="https://raw.githubusercontent.com/christospi/christospi/master/assets/elbow.gif" width="40px"> I'm Chris 🐱‍💻</div>
 </h2>
 
-<p align="center">Software Engineer with working experience in academic research, engaged in AI/ML-related projects. MSc in Data Science 👨‍🎓 with a craving for NLP and ML applications 🤯 <p>
+<p>Software Engineer with working experience in academic research, engaged in AI/ML-related projects. MSc in Data Science 👨‍🎓 with a craving for NLP and ML applications 🤯 <p>
 
-<p align="center">I'm currently job-hunting 👀, looking for an awesome team to collaborate with!<p>
+<p>I'm currently job-hunting 👀, looking for an awesome team to collaborate with!<p>
 
-<p align="center">📫 Contact me at:<p>
+<p>📫 Contact me at:<p>
 
-<div align='center'>
+<div>
 
 [![LinkedIn][4_icon2]][4]
 &nbsp;
