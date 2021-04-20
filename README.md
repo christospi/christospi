@@ -5,7 +5,7 @@ Hi there <img src="https://raw.githubusercontent.com/christospi/christospi/maste
 
 <p>Software Engineer with MSc in Data Science 👨‍🎓 and a craving for NLP and ML applications 🤯 <p>
 
-<p>I'm currently working as a Software Engineer at Skroutz S.A  <p>
+<p>I'm currently working as a Software Engineer at Skroutz S.A!<p>
 
 <p>📫 Contact me at:<p>
 
