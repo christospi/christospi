@@ -1,11 +1,9 @@
 <h2>
 <div>
-Hi there <img src="https://raw.githubusercontent.com/christospi/christospi/master/assets/elbow.gif" width="40px"> I'm Chris 🐱‍💻</div>
+Hi there <img src="https://raw.githubusercontent.com/christospi/christospi/master/assets/elbow.gif" width="40px"> I'm Chris 👨‍💻</div>
 </h2>
 
-<p>Software Engineer with MSc in Data Science 👨‍🎓 and a craving for NLP and ML applications 🤯 <p>
-
-<p>I'm currently working as a Software Engineer at Skroutz S.A!<p>
+<p>Software Engineer with with a craving for NLP and ML applications 🤯 <p>
 
 <p>📫 Contact me at:<p>
 
