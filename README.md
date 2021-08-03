@@ -1,11 +1,11 @@
 <h2>
 <div>
-Hi there <img src="https://raw.githubusercontent.com/christospi/christospi/master/assets/elbow.gif" width="40px"> I'm Chris 👨‍💻</div>
+Hi there 👋 I'm Chris 👨‍💻</div>
 </h2>
 
 <p>Software Engineer with with a craving for NLP and ML applications 🤯 <p>
 
-<p>📫 Contact me at:<p>
+<p>📫 Find me on:<p>
 
 <div>
 
