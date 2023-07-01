@@ -3,7 +3,7 @@
 Hi there 👋 I'm Chris 👨‍💻</div>
 </h2>
 
-<p>Software Engineer with with a craving for NLP and ML applications 🤯 <p>
+<p>Software Engineer with with a craving for building software that inspires and empowers users! <p>
 
 <p>📫 Find me on:<p>
 
