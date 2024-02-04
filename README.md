@@ -19,8 +19,8 @@ Hi there 👋 I'm Chris 👨‍💻</div>
 
 <!-- icons without padding -->
 
-[4_icon2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
-[7_icon]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black
+[4_icon2]: https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
+[7_icon]: https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=black
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
