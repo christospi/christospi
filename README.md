@@ -1,4 +1,4 @@
-# Hello, friend 👋</div>
+# 👋 Hello, friend. </div>
 
 ```
 $ whois github.com/christospi
