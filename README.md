@@ -1,17 +1,22 @@
-<h2>
-<div>
-Hi there 👋 I'm Chris 👨‍💻</div>
-</h2>
+# Hello, friend 👋</div>
 
-<p>Software Engineer with with a craving for building software that inspires and empowers users! <p>
+```
+$ whois github.com/christospi
+```
 
-<p>📫 Find me on:<p>
+I‘m Christos, a Software Engineer with with a craving for building software that inspires and empowers users!
 
-<div>
+Currently working [@skroutz] as part of the awesome Search team 🔍, helping users find the most relevant products for their needs.\
+Former member of [@AI-team-UoA] 🤖
+
+[@skroutz]: https://skroutz.gr
+[@AI-team-UoA]: https://github.com/AI-team-UoA
+
+📫 How to reach me:
 
 [![LinkedIn][4_icon2]][4]
 &nbsp;
-[![Twitter][7_icon]][1]
+[![][7_icon]][1]
 
 </div>
 
@@ -19,8 +24,8 @@ Hi there 👋 I'm Chris 👨‍💻</div>
 
 <!-- icons without padding -->
 
-[4_icon2]: https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
-[7_icon]: https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=black
+[4_icon2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[7_icon]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
