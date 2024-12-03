@@ -4,9 +4,9 @@
 $ whois github.com/christospi
 ```
 
-I‘m Christos, a Software Engineer with with a craving for building software that inspires and empowers users!
+I‘m Christos, a Backend-focused Software Engineer with a product mindset, driven to create software that inspires and empowers users.
 
-Currently working [@skroutz] as part of the awesome Search team 🔍, helping users find the most relevant products for their needs.\
+Currently working [@skroutz] as part of the awesome Search team 🔍, shaping users' search and discovery experience.\
 Former member of [@AI-team-UoA] 🤖
 
 [@skroutz]: https://skroutz.gr
