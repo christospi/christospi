@@ -7,12 +7,14 @@ $ whois github.com/christospi
 I‘m Christos, a Backend-focused Software Engineer with a product mindset, driven to create software that inspires and empowers users.
 
 Currently working [@skroutz] as part of the awesome Search team 🔍, shaping users' search and discovery experience.\
-Former member of [@AI-team-UoA] 🤖
+
+Former member of:
+- [@AI-team-UoA] Research Group 🤖
 
 [@skroutz]: https://skroutz.gr
 [@AI-team-UoA]: https://github.com/AI-team-UoA
 
-📫 How to reach me:
+📫 Let's connect:
 
 [![LinkedIn][4_icon2]][4]
 &nbsp;
