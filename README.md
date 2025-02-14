@@ -9,7 +9,7 @@ I‘m Christos, a backend-focused Software Engineer with a product mindset, driv
 Currently working [@On] as a Software Engineer on the Product Core team.
 
 Former member of:
-- [@skroutz] Part of the awesome Search team 🔍 shaping users' search and discovery experience.
+- [@skroutz] Part of the awesome Search team 🔍 shaping users' search and discovery experience
 - [@AI-team-UoA] Research Group 🤖
 
 [@skroutz]: https://skroutz.gr
