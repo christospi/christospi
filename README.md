@@ -6,7 +6,7 @@ $ whois github.com/christospi
 
 I‘m Christos, a backend-focused Software Engineer with a product mindset, driven to create software that inspires and empowers users.
 
-Currently working [@onrunning] as a Software Engineer on the Product Core team.
+Currently working [@On], as a Software Engineer on the Product Core team.
 
 Former member of:
 - [@skroutz] Part of the awesome Search team 🔍 shaping users' search and discovery experience.
@@ -14,6 +14,7 @@ Former member of:
 
 [@skroutz]: https://skroutz.gr
 [@AI-team-UoA]: https://github.com/AI-team-UoA
+[@On]: https://github.com/onrunning
 
 📫 Let's connect:
 
