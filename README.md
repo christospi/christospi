@@ -9,8 +9,8 @@ I‘m Christos, a backend-focused Software Engineer with a product mindset, driv
 Currently at [@On] 👟 with the amazing Product Core team, engineering seamless data flows for the world’s fastest-growing sportswear brand.
 
 Former member of:
-- [@skroutz] Part of the awesome Search team 🔍 shaping users' search and discovery experience
-- [@AI-team-UoA] Research Group 🤖
+- [@skroutz]'s awesome Search team 🔍 shaping users' search and discovery experience
+- [@AI-team-UoA] research group 🤖
 
 [@skroutz]: https://skroutz.gr
 [@AI-team-UoA]: https://github.com/AI-team-UoA
