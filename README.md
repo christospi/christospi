@@ -6,7 +6,7 @@ $ whois github.com/christospi
 
 I‘m Christos, a backend-focused Software Engineer with a product mindset, driven to create software that inspires and empowers users.
 
-Currently working [@On] as a Software Engineer on the Product Core team.
+Currently at [@On] 👟 with the amazing Product Core team, engineering seamless data flows for the world’s fastest-growing sportswear brand.
 
 Former member of:
 - [@skroutz] Part of the awesome Search team 🔍 shaping users' search and discovery experience
