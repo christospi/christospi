@@ -1,22 +1,22 @@
 # 👋 Hello, friend. </div>
 
-```
+```bash
 $ whois github.com/christospi
 ```
 
-I‘m Christos, a backend-focused Software Engineer with a product mindset, driven to create software that inspires and empowers users.
+I‘m Christos, a backend-focused Software Engineer with a product mindset, passionate about building robust systems that inspire and empower users.
 
-Currently at [@On] 🏃 with the amazing Product Core team, engineering seamless data flows for the world’s fastest-growing sports company.
+### ⚡ Journey & Impact
 
-Former member of:
-- [@skroutz]'s awesome Search team 🔍 shaping users' search and discovery experience
-- [@AI-team-UoA] research group 🤖
+* 🏃 **[@On](https://www.on.com):** `active (running)` - Engineering the core data flows for the world’s fastest-growing sports company.
+* 🔍 **[@skroutz](https://www.skroutz.gr):** Shaped the search and discovery experience for the leading Greek marketplace.
+* 🤖 **[@AI-team-UoA](https://ai.di.uoa.gr/):** Deep-dived into ML and NLP research (before LLMs were cool).
 
-[@skroutz]: https://skroutz.gr
+[@Skroutz]: https://github.com/skroutz
 [@AI-team-UoA]: https://github.com/AI-team-UoA
 [@On]: https://github.com/onrunning
 
-📫 Let's connect:
+### 📫 Let's Connect
 
 [![LinkedIn][4_icon2]][4]
 &nbsp;
