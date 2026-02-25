@@ -8,7 +8,7 @@ I‘m Christos, a backend-focused Software Engineer with a product mindset, pass
 
 ### ⚡ Journey & Impact
 
-* 🏃 **[@On](https://www.on.com):** `active (running)` - Engineering the core data flows for the world’s fastest-growing sports company.
+* 🏃 **[@On](https://www.on.com):** `active (running)` Engineering the core data flows for the world’s fastest-growing sports company.
 * 🔍 **[@skroutz](https://www.skroutz.gr):** Shaped the search and discovery experience for the leading Greek marketplace.
 * 🤖 **[@AI-team-UoA](https://ai.di.uoa.gr/):** Deep-dived into ML and NLP research (before LLMs were cool).
 
